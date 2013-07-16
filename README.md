@@ -1,6 +1,6 @@
+# Xively PHP library (BETA)
 
-Xively Api
-==============
+Please note that this library is still in active beta.  Feedback and contributions are always welcome for any Xively library, and this is no exception!
 
 Xively API Helper (https://xively.com/)
 --------------
