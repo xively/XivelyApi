@@ -4,8 +4,8 @@
 /**
  * Xively Exception
  * @author Daniel Boorn - daniel.boorn@gmail.com
- * @copyright Daniel Boorn
- * @license Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+ * @copyright LogMeIn, Inc.
+ * @license BSD 3-Clause, http://opensource.org/licenses/BSD-3-Clause
  * @namespace Xively
  * @note Class uses a JSON api_path.js file that defines the API resources (endpoints and paths). 
 */
