@@ -1,4 +1,4 @@
-### Xively-Api
+### Xively PHP
 
 - PHP 5 Chainable API Implementation of Xively Api
 - License: Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
@@ -9,10 +9,10 @@ How to Install
 ---------------
 
 
-Install the `deboorn/xively-api` package
+Install the `xively/xively-php` package
 
 ```shell
-$ composer require deboorn/xively-api
+$ composer require xively/xively-php
 ```
 
 Example of Usage
@@ -85,7 +85,7 @@ var_dump($r);
 
 // example - push data to stream
 $r = $xi->feeds()->read(array(
-    'user' => 'deboorn',
+    'user' => 'username',
 ))->get();
 
 //feeds(id)->datastreams(id)->update(body)
