@@ -2,7 +2,7 @@
 
 - PHP 5 Chainable API Implementation of Xively Api
 - License: Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
-- These files are Not officially supported by Xively (LogMeIn).
+- These files are Not officially supported by Xively.
 - Questions regarding this software should be directed to daniel.boorn@gmail.com.
 
 How to Install
