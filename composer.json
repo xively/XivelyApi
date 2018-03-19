@@ -1,7 +1,7 @@
 {
   "name": "xively/xively-php",
   "description": "PHP API Client for Xively Api",
-  "keywords": ["xively", "logmein", "deboorn"],
+  "keywords": ["xively", "deboorn"],
   "homepage": "https://github.com/xively/xively-php",
   "license": "CC BY-NC 3.0",
   "authors": [
